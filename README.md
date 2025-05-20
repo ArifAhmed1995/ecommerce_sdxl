@@ -149,7 +149,7 @@ This workflow takes about 90 seconds on a Laptop RTX 4070(8 GB VRAM) with 32GB R
 
 ## Limitations and Further Improvements
 
-This workflow is mainly to explore a concept and not meant to be productizable. The generation is not always successfull and will generate unreal hand grips a lot of times. However, depending on the item and it's placement on canvas a successfull generation usually happens between 30% to 80% of the time.
+This workflow is mainly to explore a concept and not meant to be productizable. The generation is not always successful and will generate unreal hand grips a lot of times. However, depending on the item and it's placement on canvas a successful generation usually happens between 30% to 80% of the time.
 
 
 Improvements
