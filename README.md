@@ -1,6 +1,6 @@
 # *E-Commerce Inpainting SDXL* &nbsp;
 
-This workflow uses a base-SDXL + LoRA checkpoint to generate in-painted images of a model holding a physical product. This can be a suitcase, lotion bottle, packet of chips, phone, etc.
+This workflow uses a base-SDXL + LoRA checkpoints to generate ControlNet guided images of a model holding a physical product. This can be a suitcase, lotion bottle, packet of chips, phone, etc.
 
 The end goal is to make the workflow as automated as possible, with the one and only input being the product image. By analysing this image, the ideal model persona and studio setting can be figured out by a robust VLM. Currently the workflow requires the product image to be put onto a blank canvas, and middle of the handle/strap erased to some extent to allow a hand to be in-painted. It should be possible to automate this as well. 
 
